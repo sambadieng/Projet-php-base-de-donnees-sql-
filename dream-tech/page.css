@@ -1,0 +1,30 @@
+#table{
+	width: 1000px;
+	margin: auto;
+border-collapse: collapse;
+margin-top: 30px;
+}
+#tr1{
+	background-color: blue;
+	height: 50px;
+}
+.td{
+	height: 20px;
+	padding-top: 20px;
+}
+#table1{
+	border-collapse: collapse;
+}
+#table2{
+	border-collapse: collapse;
+}
+#col{
+	
+	background-color: blue;
+}
+#table2{
+	border-collapse: collapse;
+}
+#table3{
+	border-collapse: collapse;
+}
