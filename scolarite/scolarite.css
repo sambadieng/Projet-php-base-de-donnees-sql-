@@ -1,0 +1,60 @@
+.div2{
+margin-top: 20px;
+margin-left: 30px;
+}
+.div3{
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.div4{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.divmax{
+	margin: 50px auto;
+	width: 500px;
+	height: 500px;
+}
+#id1{
+	margin-top: 20px;
+}
+#id2{
+	margin-top: 20px;
+}
+#id3{
+	margin-top: 20px;
+}
+#id4{
+	margin-top: 20px;
+}
+.div{
+	margin: 50px auto;
+	width: 500px;
+	height: 300px;
+}
+#save{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#table{
+	width: 1000px;
+	margin: auto;
+border-collapse: collapse;
+margin-top: 30px;
+}
+a{
+	text-decoration: none;
+	color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
